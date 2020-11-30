@@ -21,9 +21,9 @@ Polish is hard for several reasons, described in subsections below.
 
 Like many Slavic languages, Polish has a complicted system of declensions aka grammar, though nobody ever clearly explains what this means to new students. In practice, it means that every word comes in 7 forms aka declensions, and the 7 forms are sometimes sufficiently dissimilar to each other that it might seem like you have to learn each word ~7 different times. Also, there is a complicated system of rules for choosing which declension form to use, and when to use it, depending mostly on context and situation. This means that learning Polish is in some sense like learning 7 languages, plus also learning which situation to use each of the 7 languages in. Here's an example:
 
-English: ```"I am with Tom"```
+English: ```I am with Tom```
 
-Using Polish declension forms, glued to the end of English: ```"I am with Tomem"```
+Using Polish declension forms, glued to the end of English: ```I am with Tomem```
 
 Notice that the word "Tom," which is a person's name, was changed here, in this case by adding the suffix "-em" to the end of it. This suffix "-em" is one of the 7 transformations, but not all of the 7 declension transformations are so straightforward.
 
@@ -41,11 +41,13 @@ TODO: COLOR CODE THESE ENDINGS
 This declension-form-transformation thing occurs not just with people's names, but instead in almost all situations of practical relevance. Here's the classic textbook declension example, so you get the hang of it. Take these two English sentences:
 
 English: ```The ball is below the table.```
+
 English again, slightly different sentence: ```The ball is beside the table.```
 
 It looks like this if we glue the Polish declension-transformations onto English words:
 
 Using Polish declension forms, glued to the end of English: ```The ball is below the tablem ```
+
 Slightly different sentence, using Polish declension forms, glued to the end of English: ```The ball is beside the tablu```
 
 Notice that the word "table" is the same in both of those English sentences above. On the other hand, in Polish, the word "table" changes, depending on where the ball is, as you see in the latter pair of sentences. If this situation strikes you as utterly mad, you're not alone; welcome to Polish. It's such a bizarre idea for English speakers that some students refuse to believe anyone would design a language like this; yet here we are. 
@@ -55,9 +57,13 @@ Of course, we've picked super-simple sentences here, which require super-simple 
 There is a further wrinkle in that not only Polish nouns must be declined, but also adjectives. Here's an example:
 
 English: ```The ball is below the tall table.```
+
 English again, slightly different sentence: ```The ball is beside the tall table.```
 
+Let's compare to English-with-Polish-declension-endings:
+
 Using Polish declension forms, glued to the end of English: ```The ball is below the tallem tablem ```
+
 Slightly different sentence, using Polish declension forms, glued to the end of English: ```The ball is beside the tallego tablu```
 
 Notice a couple things here. First, when the ball is *below* the table, the declension ending for the adjective (aka the "-em" part of the word "tallem") happens to be the same as the declension ending for the noun (again the "-em" part of the word "tablem"). This is merely a lucky cooincidence, and is not at all a general feature of Polish declensions. 
@@ -65,6 +71,7 @@ Notice a couple things here. First, when the ball is *below* the table, the decl
 We discover a counterexample immediately, finding that when the ball is *beside* the table, the adjective "tall" gets a new ending "-ego" which is not the same as the ending for the noun (which of course is still "tablem" as before). 
 
 
+### A laundry list of difficulties related to Polish declensions
 Here are some extra facts regarding declensions in Polish:
 
 * Some words in some of the 7 declensions are recognizeably phonetically similar to each other, while others are not. 
@@ -76,14 +83,18 @@ Here are some extra facts regarding declensions in Polish:
 * Unlike English, there are multiple pluralities. In Polish, the word for "car" changes depending on *how many cars there are*. This often (justly) strikes students as utter madness. Here's an example:
 
 English: ```There is one car.```
+
 English again, but plural: ```There are two cars.```
+
 English again, even more plural: ```There are five cars.```
 
 Note that the word "car" only comes in two flavors, 1) "car" and 2) "cars," and that the rule for deciding which form to use is pretty simple: 0 cars, 1 car, 2+ cars. Polish differs insofar as it has more flavors of each word, depending on plurality, and the rules for picking which one to use are not so simple as in English. Here's a quick example:
 
 Using Polish declension form, glued to the end of English: ```There is one car.```
+
 Using Polish declension form, glued to the end of English, but plural: ```There are two cary.```
-Using Polish declension form, glued to the end of English, but even more plural: ```There are five carów```.
+
+Using Polish declension form, glued to the end of English, but even more plural: ```There are five carów.```
 
 
 So above, we've mentioned that most words come in 7 declension forms, and approximately 2 or 3 genders, and approximately 2 or 3 pluralities. The practical consequence of this is a combinatorial explosion in word forms. If we try to estimate the complexity, we find (7 declension forms * ~3 genders * ~2 pluralities) ~= 42 versions of each word, which you'll have to know about and choose correctly and understand in real time. On the bright side, some of these ~42 are duplicates of each other, perhaps due to a shortage of easily-pronouncable suffixes. And others of them follow approximate patterns, where even if you don't have the correct word form memorized, you can usually reason your way through to a plausible-sounding guess of the proper word form, given a little time to think. However, you'll still have to keep track of all these rules/patterns, which is widely regarded as one of the harder parts of learning Polish. 
