@@ -21,18 +21,23 @@ Polish is hard for several reasons, described in subsections below.
 
 Like many Slavic languages, Polish has a complicted system of declensions aka grammar, though nobody ever clearly explains what this means to new students. In practice, it means that every word comes in 7 forms aka declensions, and the 7 forms are sometimes sufficiently dissimilar to each other that it might seem like you have to learn each word ~7 different times. Also, there is a complicated system of rules for choosing which declension form to use, and when to use it, depending mostly on context and situation. This means that learning Polish is in some sense like learning 7 languages, plus also learning which situation to use each of the 7 languages in. Here's an example:
 
-English: ```I am with Tom```
+*English:* ```I am with Tom```
 
-Using Polish declension forms, glued to the end of English: ```I am with Tomem```
-
-Notice that the word "Tom," which is a person's name, was changed here, in this case by adding the suffix `-em` to the end of it. This suffix `-em` is one of the 7 transformations, but not all of the 7 declension transformations are so straightforward.
+Using Polish declension forms, glued to the end of *English:* ```I am with Tomem```
 
 
-But if we adjust the sentence, a different declension form is needed. Here's another example:
 
-English: ```I am without Tom```
+Notice that the word "Tom," which is a person's name, was changed here, in this case by adding the suffix `-em` to the end of it. This suffix `-em` is one of the 7 transformations, but not all of the 7 declension transformations are so straightforward. If we adjust the sentence, a different declension form is needed. Here's another example:
 
-Using Polish declension forms, glued to the end of English:  ```I am without Toma```
+
+*English:* 
+
+```I am without Tom```
+
+
+*Using Polish declension forms, glued to the end of English:*  
+
+```I am without Toma```
 
 Notice that the word "Tom," was changed here, but was changed *differently* than above. Here, we added the suffix `-a`. This suffix `-a` is one of the 7 declension-form transformations, but of course it's not the same as the `-em` transformation above. If you mix them up, or use the one when you ought to use the other, you are mostly intelligible to native speakers, but you sound like an adorably clueless foreigner/illiterate fool.
 
@@ -40,22 +45,22 @@ TODO: COLOR CODE THESE ENDINGS
 
 This declension-form-transformation thing occurs not just with people's names, but instead in almost all situations of practical relevance. Here's the classic textbook declension example to help you get the hang of it. Take these two English sentences:
 
-English: 
+*English:* 
 
 ```The ball is below the table.```
 
 
-English again, slightly different sentence: 
+*English again, slightly different sentence:*
 
 ```The ball is beside the table.```
 
 It looks like this if we glue the Polish declension-transformations onto English words:
 
-Using Polish declension forms, glued to the end of English: 
+*Using Polish declension forms, glued to the end of English:* 
 
 ```The ball is below the tablem ```
 
-Slightly different sentence, using Polish declension forms, glued to the end of English: 
+*Slightly different sentence, using Polish declension forms, glued to the end of English:* 
 
 ```The ball is beside the tablu```
 
@@ -65,18 +70,22 @@ Of course, we've picked super-simple sentences here, which require super-simple 
 
 There is a further wrinkle in that not only Polish nouns must be declined, but also adjectives. Here's an example:
 
-English: 
+*English:* 
+
 ```The ball is below the tall table.```
 
-English again, slightly different sentence: 
+*English again, slightly different sentence:*
+
 ```The ball is beside the tall table.```
 
 Let's compare to English-with-Polish-declension-endings:
 
-Using Polish declension forms, glued to the end of English: 
+*Using Polish declension forms, glued to the end of English:* 
+
 ```The ball is below the tallem tablem ```
 
-Slightly different sentence, using Polish declension forms, glued to the end of English: 
+*Slightly different sentence, using Polish declension forms, glued to the end of English:*
+
 ```The ball is beside the tallego tablu```
 
 Notice a couple things here. First, when the ball is *below* the table, the declension ending for the adjective (aka the "-em" part of the word "tallem") happens to be the same as the declension ending for the noun (again the "-em" part of the word "tablem"). This is merely a lucky cooincidence, and is not at all a general feature of Polish declensions. 
@@ -95,24 +104,30 @@ Here are some extra facts regarding declensions in Polish:
 
 * Unlike English, there are multiple pluralities. In Polish, the word for "car" changes depending on *how many cars there are*. This often (justly) strikes students as utter madness. Here's an example:
 
-English: 
+*English:* 
+
 ```There is one car.```
 
-English again, but plural: 
+*English again, but plural*: 
+
 ```There are two cars.```
 
-English again, even more plural: 
+*English again, even more plural*: 
+
 ```There are five cars.```
 
 Note that the word "car" only comes in two flavors, 1) "car" and 2) "cars," and that the rule for deciding which form to use is pretty simple: 0 cars, 1 car, 2+ cars. Polish differs insofar as it has more flavors of each word, depending on plurality, and the rules for picking which one to use are not so simple as in English. Here's a quick example:
 
-Using Polish declension form, glued to the end of English: 
+*Using Polish declension form, glued to the end of English:* 
+
 ```There is one car.```
 
-Using Polish declension form, glued to the end of English, but plural: 
+*Using Polish declension form, glued to the end of English, but plural:* 
+
 ```There are two cary.```
 
-Using Polish declension form, glued to the end of English, but even more plural: 
+*Using Polish declension form, glued to the end of English, but even more plural:*
+
 ```There are five carów.```
 
 
@@ -168,10 +183,10 @@ You will need the accusative declension literally every single day which you eve
 
 There are many prepositions in Polish which map many-to-many with English prepositions, meaning that e.g. the Polish word for "from" is also the Polish word for "with," depending on context, so you can't just cleanly translate from English without paying attention to context. Here's some examples, in English with just one single English word translated into Polish (note that here we've omitted the declension-ending-transformations described above, just for purposes of general simplicity.)
 
-Normal English: *I am with Martin.*
+Normal *English:* *I am with Martin.*
 English, with one word translated to Polish: *I am z Martin.*
 
-Normal English: *I am from America.*
+Normal *English:* *I am from America.*
 English, with one word translated to Polish: *I am z America.*
 
 So note that the same Polish preposition aka word, (in this case it's a word with a length of just single letter, *z*) means 2 totally different things: both "with" and "from."
