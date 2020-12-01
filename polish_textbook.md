@@ -99,11 +99,11 @@ Notice that the word "table" is the same in both of those English sentences abov
 
 Of course, we've picked super-simple sentences here, which correspondingly require super-simple declension forms. In practice, you mostly need declension transformations which are:
 
-1) harder to pronounce than the simple ones we used above
-2) not just additive suffixes, but involve subtracting sounds or sometimes nearly-unrecognizeable full transformations of words and 
-3) involve navigating a complicated mental flowchart for deciding which declension-form to use, often approximately of the form "if X then use Y, unless Z, in which case check A and B to decide if it should be C or D." 
+1) Harder to pronounce than the simple ones we used above
+2) Not just additive suffixes, but involve subtracting sounds or sometimes nearly-unrecognizeable full transformations of words and 
+3) Involve navigating a complicated mental flowchart for deciding which declension-form to use, often approximately of the form "if X then use Y, unless Z, in which case check A and B to decide if it should be C or D." 
 
-Needless to say there are gallons of exceptions and special cases, such that you end up with plenty of memorization even if you're good at learning the rules. There is a further wrinkle in that not only Polish nouns must be declined, but also adjectives. Here's an example:
+Needless to say there are gallons of exceptions and special cases, such that you end up with plenty of memorization even if you're good at learning the rules. There is another major wrinkle in that not only Polish nouns must be declined, but also adjectives. Here's an example:
 
 ```
 English:
@@ -117,7 +117,6 @@ The ball is beside the tall table.
 Notice that the words `tall` and also `table` are the same in both English sentences. Let's compare to English-with-Polish-declension-endings:
 
 ```
-
 Using Polish declension forms, glued to the end of English:
 The ball is below the tallem tablem 
 
@@ -125,15 +124,16 @@ Slightly different sentence, using Polish declension forms, glued to the end of 
 The ball is beside the tallego tablu
 ```
 
-Notice a couple things here. First, when the ball is *below* the table, the declension ending for the adjective (aka the `-em` part of the word `tallem`) happens to be the same in this case as the declension ending for the noun (again the `-em` part of the word `tablem`). This is merely a lucky cooincidence, and is not at all a general feature of Polish declensions. 
+Notice a couple things here. First, when the ball is *below* the table, the declension ending for the adjective (aka the `-em` part of the word `tallem`) happens to be the same as the declension ending for the noun (again the `-em` part of the word `tablem`). This is merely a lucky cooincidence, and is not at all a general feature of Polish declensions. 
 
 We discover a counterexample immediately, finding that when the ball is *beside* the table, the adjective `tall` gets a new ending `-ego` which is not the same as the `-u` ending for the noun `tablu`. 
 
 
-#### A laundry list of difficulties related to Polish declensions
+#### A roundup of other things which are difficult about declensions
+
 Here are some extra facts regarding declensions in Polish:
 
-* Some words in some of the 7 declensions are recognizeably phonetically similar to each other, while others are not. 
+* Some words in some of the 7 declensions are recognizeably phonetically similar to each other, while others are not. Example: The basic word for `apple` is `jabłko`, and it gets declined into forms like `jabłku` and `jabłka`, which are pretty recognizeable. On the other hand, the basic word for `dog` is `pies`, but it sometimes gets transformed into `psem` or `psie`, which are kinda recognizeable if you know what to look for, but not obvious to many new students.
 
 * Adjectives, nouns, pronouns, numbers, and some other words have the 7 declension forms, though adverbs, some possessives, and some other words don't.
 
