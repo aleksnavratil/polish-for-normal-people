@@ -21,9 +21,15 @@ Polish is hard for several reasons, described in subsections below.
 
 Like many Slavic languages, Polish has a complicted system of declensions aka grammar, though nobody ever clearly explains what this means to new students. In practice, it means that every word comes in 7 forms aka declensions, and the 7 forms are sometimes sufficiently dissimilar to each other that it might seem like you have to learn each word ~7 different times. Also, there is a complicated system of rules for choosing which declension form to use, and when to use it, depending mostly on context and situation. This means that learning Polish is in some sense like learning 7 languages, plus also learning which situation to use each of the 7 languages in. Here's an example:
 
-*English:* ```I am with Tom```
+*English:* 
 
-Using Polish declension forms, glued to the end of *English:* ```I am with Tomem```
+```I am with Tom```
+
+
+
+*Using Polish declension forms, glued to the end of English:* 
+
+```I am with Tomem```
 
 
 
@@ -181,20 +187,35 @@ You will need the accusative declension literally every single day which you eve
 
 ## Preposition mapping
 
-There are many prepositions in Polish which map many-to-many with English prepositions, meaning that e.g. the Polish word for "from" is also the Polish word for "with," depending on context, so you can't just cleanly translate from English without paying attention to context. Here's some examples, in English with just one single English word translated into Polish (note that here we've omitted the declension-ending-transformations described above, just for purposes of general simplicity.)
+There are many prepositions in Polish which map many-to-many with English prepositions, meaning that e.g. the Polish word for `from` is also the Polish word for `with`, depending on context, so you can't just cleanly translate from English without paying attention to context. Here's some examples, in English with just one single English word translated into Polish (note that here we've omitted the declension-ending-transformations described above, just for purposes of general simplicity.)
 
-Normal *English:* *I am with Martin.*
-English, with one word translated to Polish: *I am z Martin.*
+*Normal English:* 
 
-Normal *English:* *I am from America.*
-English, with one word translated to Polish: *I am z America.*
+```I am with Martin.```
 
-So note that the same Polish preposition aka word, (in this case it's a word with a length of just single letter, *z*) means 2 totally different things: both "with" and "from."
-This is not super confusing for native speakers, because they infer the meaning of the preposition from the declension transformations applied to nouns and adjectives. But as a new student, you can't yet perform that inference, so you end up constantly confused about prepositions.
 
-Of course this is not merely a property of this one preposition *z* alone; instead, there are lots of "overloaded" prepositions like this, behaving in ways which you might not expect. TODO add some more examples of overloaded prepositions
+*English, with one word translated to Polish:*
 
-This is one reason why it's hard to be idiomatic. You can be intelligible but not idiomatic. You also can't translate very many prepositions from English, for example, I have to go "on a beer" not "for a beer". This is a little like regional differences in English, like how people from New Jersey say that they're standing "on-line" and people from Denver say that they're standing "in line."
+
+```I am z Martin.```
+
+So here we see that the Polish word `z` means English `with`. But that same preposition can mean something totally different, if used in another context:
+
+*Normal English:* 
+
+`I am from America.`
+
+
+*English, with one word translated to Polish:*
+
+`I am z America.`
+
+So the same Polish preposition aka word, (in this case it's a word with a length of just single letter, `z`) means two totally different things: both `with` and `from`.
+This is not confusing for native speakers, because they infer the meaning of the preposition from the declension transformations applied to nouns and adjectives (which we have omitted here for simplicity). But as a new student, you can't yet perform that inference, so you end up constantly confused about prepositions.
+
+Of course this is not merely a property of this one preposition `z` alone; instead, there are lots of "overloaded" prepositions like this, behaving in ways which you might not expect. TODO add some more examples of overloaded prepositions
+
+This is one reason why it's hard to be idiomatic. You can be intelligible but not idiomatic. You also can't translate very many prepositions from English, for example, I have to go "on a beer" not "for a beer". This is a little like regional differences in English, like how people from New Jersey say that they're standing "on-line" and people from Denver say that they're standing "in line," but way more extreme.
 
 
 
