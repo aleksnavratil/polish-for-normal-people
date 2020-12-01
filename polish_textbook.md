@@ -96,7 +96,7 @@ Notice that the words `tall` and also `table` are the same in both English sente
 
 Notice a couple things here. First, when the ball is *below* the table, the declension ending for the adjective (aka the `-em` part of the word `tallem`) happens to be the same as the declension ending for the noun (again the `-em` part of the word `tablem`). This is merely a lucky cooincidence, and is not at all a general feature of Polish declensions. 
 
-We discover a counterexample immediately, finding that when the ball is *beside* the table, the adjective `tall` gets a new ending `-ego` which is not the same as the ending for the noun (which of course is still `tablem` as before). 
+We discover a counterexample immediately, finding that when the ball is *beside* the table, the adjective `tall` gets a new ending `-ego` which is not the same as the `-u` ending for the noun `tablu`. 
 
 
 ### A laundry list of difficulties related to Polish declensions
