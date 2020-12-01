@@ -1,49 +1,73 @@
-## A brief introduction to Polish as a second language
-## A non-pompous intro to...
+# Learning Polish as a second language
+## An introduction for normal people 
+
+Table of Contents
+=================
+
+  * [Should you study Polish as a second language?](#should-you-study-polish-as-a-second-language)
+  * [Why is Polish hard](#why-is-polish-hard)
+     * [Declensions](#declensions)
+     * [A laundry list of difficulties related to Polish declensions](#a-laundry-list-of-difficulties-related-to-polish-declensions)
+     * [Pronunciation and spelling](#pronunciation-and-spelling)
+     * [Availability of good textbooks and pedagogy](#availability-of-good-textbooks-and-pedagogy)
+  * [Preposition mapping](#preposition-mapping)
+  * [Very subtle phonetic distinctions between pairs of opposites](#very-subtle-phonetic-distinctions-between-pairs-of-opposites)
+  * [TODOS:](#todos)
 
 
 ## Should you study Polish as a second language?
 
 In general, no, you should not learn Polish as a second language. It's too hard, with minimal payoff. With the time and effort you'll spend learning Polish, you can learn:
 
-    * Both Spanish and French (2 for 1 deal, with more than a whole continent's worth of native speakers)
+    * Both Spanish and French (It's like a two-for-one deal, with more than a whole continent's worth of native speakers)
     * All of Russian (a language which works very well in ~10's of countries)
     * More than half of Chinese (with > a billion native speakers in the world)
     * More than half of Japanese (foreign Japanese speakers are rare and consequently valuable)
 
-Each of these options above is vastly more useful than Polish. You should only learn Polish as a second language if you have an extremely strong reason, such as "I have a business opportunity which will allow me to become generationally wealthy, if only I can learn Polish." Reasons like "My husband is Polish" or "I live in Warsaw for my job" are almost certainly not strong enough to merit the enormous time-and-effort commitment required to learn Polish. It's best to think of learning Polish a bit like learning Estonian or Swahili; possible but difficult, with minimal practical benefit.
+Each of these options above is way more useful than Polish, which works in roughly one and a half small countries. You should only learn Polish as a second language if you have an extremely strong reason, such as "I have a business opportunity which will allow me to become generationally wealthy, if only I can learn Polish." Reasons like "My husband is Polish" or "I live in Warsaw for my job" are almost certainly not strong enough to merit the enormous time-and-effort commitment required to learn Polish. Polish is like learning Estonian or Swahili; possible but difficult, with minimal practical benefit.
 
 ## Why is Polish hard
 
-Polish is hard for several reasons, described in subsections below.
+Polish is hard for several reasons, given here is descending order of importance. Each of these is described more in a subsection below.
+
+* Declensions
+* Pronunciation, phonetics, and spelling
+* Prepositions which don't map cleanly onto English
+* Availability of good textbooks and pedagogy
 
 ### Declensions
 
-Like many Slavic languages, Polish has a complicted system of declensions aka grammar, though nobody ever clearly explains what this means to new students. In practice, it means that every word comes in 7 forms aka declensions, and the 7 forms are sometimes sufficiently dissimilar to each other that it might seem like you have to learn each word ~7 different times. Also, there is a complicated system of rules for choosing which declension form to use, and when to use it, depending mostly on context and situation. This means that learning Polish is in some sense like learning 7 languages, plus also learning which situation to use each of the 7 languages in. Here's an example:
-
-*English:* 
-
-```I am with Tom.```
+Like many Slavic languages, Polish has a complicted system of declensions aka grammar, though nobody ever clearly explains what this means to new students. A big part of this document is devoted to explaining what "declensions" mean to a new student.
 
 
+##### What is a declension?
 
-*Using Polish declension forms, glued to the end of English:* 
+In practice, "Polish has declensions" means that every word comes in 7 forms aka declensions, and the 7 forms are sometimes sufficiently dissimilar to each other that it might seem like you have to learn each word ~7 different times. Also, there is a complicated system of rules for choosing which declension form to use, and when to use it, depending mostly on context and situation. This means that learning Polish is in some sense like learning 7 languages, plus also learning which situation to use each of the 7 languages in. 
 
-```I am with Tomem.```
+
+##### Simple examples of declensions
+
+Here's a simple example of a declension, using mostly English with just the relevant parts of Polish glued to the end of English words.
+
+
+English:
+I am with Tom.
+
+Using Polish declension forms, glued to the end of English:
+I am with Tomem.
 
 
 
 Notice that the word "Tom," which is a person's name, was changed here, in this case by adding the suffix `-em` to the end of it. This suffix `-em` is one of the 7 transformations, but not all of the 7 declension transformations are so straightforward. If we adjust the sentence, a different declension form is needed. Here's another example:
 
 
-*English:* 
+English:
+I am without Tom.
 
-```I am without Tom.```
+Using Polish declension forms, glued to the end of English:
+I am without Toma.
 
 
-*Using Polish declension forms, glued to the end of English:*  
-
-```I am without Toma.```
 
 Notice that the word "Tom," was changed here, but was changed *differently* than above. Here, we added the suffix `-a`. This suffix `-a` is one of the 7 declension-form transformations, but of course it's not the same as the `-em` transformation above. If you mix them up, or use the one when you ought to use the other, you are mostly intelligible to native speakers, but you sound like an adorably clueless foreigner/illiterate fool.
 
@@ -51,55 +75,59 @@ TODO: COLOR CODE THESE ENDINGS
 
 This declension-form-transformation thing occurs not just with people's names, but instead in almost all situations of practical relevance. Here's the classic textbook declension example to help you get the hang of it. Take these two English sentences:
 
-*English:* 
 
-```The ball is below the table.```
+English:
+The ball is below the table.
+
+English again, slightly different sentence:
+The ball is beside the table.
 
 
-*English again, slightly different sentence:*
 
-```The ball is beside the table.```
 
 It looks like this if we glue the Polish declension-transformations onto English words:
 
-*Using Polish declension forms, glued to the end of English:* 
 
-```The ball is below the tablem.```
+Using Polish declension forms, glued to the end of English:
+The ball is below the tablem.
 
-*Slightly different sentence, using Polish declension forms, glued to the end of English:* 
+Slightly different sentence, using Polish declension forms, glued to the end of English:
+The ball is beside the tablu.
 
-```The ball is beside the tablu.```
+
 
 Notice that the word "table" is the same in both of those English sentences above. On the other hand, in Polish, the word "table" changes, depending on where the ball is, as you see in the latter pair of sentences. If this situation strikes you as utterly mad, you're not alone; welcome to Polish. It's such a bizarre idea for English speakers that some students refuse to believe anyone would design a language like this; yet here we are. 
 
-Of course, we've picked super-simple sentences here, which require super-simple declension forms. In practice, you mostly need declension transformations which are 1) harder to pronounce than the simple ones we used above, 2) not just additive suffixes, but involve subtracting sounds or sometimes nearly-unrecognizeable full transformations of words and 3) involve navigating a complicated mental flowchart for deciding which declension-form to use, often approximately of the form "if X then use Y, unless Z, in which case check A and B to decide if it should be C or D." Needless to say there are gallons of exceptions and special cases, such that you end up with plenty of memorization even if you're good at learning the rules.
+Of course, we've picked super-simple sentences here, which correspondingly require super-simple declension forms. In practice, you mostly need declension transformations which are 1) harder to pronounce than the simple ones we used above, 2) not just additive suffixes, but involve subtracting sounds or sometimes nearly-unrecognizeable full transformations of words and 3) involve navigating a complicated mental flowchart for deciding which declension-form to use, often approximately of the form "if X then use Y, unless Z, in which case check A and B to decide if it should be C or D." Needless to say there are gallons of exceptions and special cases, such that you end up with plenty of memorization even if you're good at learning the rules.
 
 There is a further wrinkle in that not only Polish nouns must be declined, but also adjectives. Here's an example:
 
-*English:* 
 
-```The ball is below the tall table.```
+English:
+The ball is below the tall table.
 
-*English again, slightly different sentence:*
+English again, slightly different sentence:
+The ball is beside the tall table.
 
-```The ball is beside the tall table.```
+
 
 Notice that the words `tall` and also `table` are the same in both English sentences. Let's compare to English-with-Polish-declension-endings:
 
-*Using Polish declension forms, glued to the end of English:* 
 
-```The ball is below the tallem tablem ```
 
-*Slightly different sentence, using Polish declension forms, glued to the end of English:*
+Using Polish declension forms, glued to the end of English:
+The ball is below the tallem tablem 
 
-```The ball is beside the tallego tablu```
+Slightly different sentence, using Polish declension forms, glued to the end of English:
+The ball is beside the tallego tablu
 
-Notice a couple things here. First, when the ball is *below* the table, the declension ending for the adjective (aka the `-em` part of the word `tallem`) happens to be the same as the declension ending for the noun (again the `-em` part of the word `tablem`). This is merely a lucky cooincidence, and is not at all a general feature of Polish declensions. 
+
+Notice a couple things here. First, when the ball is *below* the table, the declension ending for the adjective (aka the `-em` part of the word `tallem`) happens to be the same in this case as the declension ending for the noun (again the `-em` part of the word `tablem`). This is merely a lucky cooincidence, and is not at all a general feature of Polish declensions. 
 
 We discover a counterexample immediately, finding that when the ball is *beside* the table, the adjective `tall` gets a new ending `-ego` which is not the same as the `-u` ending for the noun `tablu`. 
 
 
-### A laundry list of difficulties related to Polish declensions
+#### A laundry list of difficulties related to Polish declensions
 Here are some extra facts regarding declensions in Polish:
 
 * Some words in some of the 7 declensions are recognizeably phonetically similar to each other, while others are not. 
@@ -110,34 +138,31 @@ Here are some extra facts regarding declensions in Polish:
 
 * Unlike English, there are multiple pluralities. In Polish, the word for "car" changes depending on *how many cars there are*. This often (justly) strikes students as utter madness. Here's an example:
 
-*English:* 
+```
+English:
+There is one car.
 
-```There is one car.```
+English again, but plural:
+There are two cars.
 
-*English again, but plural*: 
-
-```There are two cars.```
-
-*English again, even more plural*: 
-
-```There are five cars.```
+English again, even more plural:
+There are five cars.
+```
 
 Note that the word "car" only comes in two flavors, 1) "car" and 2) "cars," and that the rule for deciding which form to use is pretty simple: 0 cars, 1 car, 2+ cars. Polish differs insofar as it has more flavors of each word, depending on plurality, and the rules for picking which one to use are not so simple as in English. Here's a quick example:
 
-*Using Polish declension form, glued to the end of English:* 
+```
+Using Polish declension form, glued to the end of English:
+There is one car.
 
-```There is one car.```
+Using Polish declension form, glued to the end of English, but plural:
+There are two cary.
 
-*Using Polish declension form, glued to the end of English, but plural:* 
+Using Polish declension form, glued to the end of English, but even more plural:
+There are five carów.
+```
 
-```There are two cary.```
-
-*Using Polish declension form, glued to the end of English, but even more plural:*
-
-```There are five carów.```
-
-
-So above, we've mentioned that most words come in 7 declension forms, and approximately 2 or 3 genders, and approximately 2 or 3 pluralities. The practical consequence of this is a combinatorial explosion in word forms. If we try to estimate the complexity, we find (7 declension forms * ~3 genders * ~2 pluralities) ~= 42 versions of each word, which you'll have to know about and choose correctly and understand in real time. On the bright side, some of these ~42 are duplicates of each other, perhaps due to a shortage of easily-pronouncable suffixes. And others of them follow approximate patterns, where even if you don't have the correct word form memorized, you can usually reason your way through to a plausible-sounding guess of the proper word form, given a little time to think. However, you'll still have to keep track of all these rules/patterns, which is widely regarded as one of the harder parts of learning Polish. 
+So you see that the Polish word for `car` changes, depending on how many cars there are. At this point we can try back-of-napkin math to estimate the complexity here. Most words come in 7 declension forms, and approximately 2 or 3 genders, and approximately 2 or 3 pluralities. The practical consequence of this is a combinatorial explosion in word forms. We find (7 declension forms * ~3 genders * ~2 pluralities) ~= 42 versions of each word, which you'll have to know about and choose correctly and understand in real time. On the bright side, some of these ~42 are duplicates of each other, perhaps due to a shortage of easily-pronouncable suffixes. And others of them follow approximate patterns, where even if you don't have the correct word form memorized, you can usually reason your way through to a plausible-sounding guess of the proper word form, given a little time to think. However, you'll still have to keep track of all these rules/patterns, which is widely regarded as one of the harder parts of learning Polish. 
 
 Complicating the situation somewhat, normal Polish people mostly cannot for the life of them explain this declension-form situation to you; they do it correctly without thinking. If you ask Polish people "why do I need to apply declension-form-suffix X to word Y in situation Z??", Polish people will think for a moment, then nod and sagely say something like "it's kogo/czego", and proceed to look satisfied with themselves as if this pronouncement has dispositively concluded the matter. They're right, of course, it is in fact "kogo/czego," and they know how to apply that in practice, but them telling you those two words is *far* from a complete explanation of what's happening under the hood. And you, a confused foreigner, remain totally baffled. So speaking Polish and teaching Polish are two separate skills, more so than in most disciplines. Of course teaching basketball or ballet is not the same as being a good basketball player or a good ballerina, but the teaching-doing gap is extra wide for Polish.
 
@@ -148,6 +173,7 @@ Polish contains a lot of sounds like English "shh" or "ch", and has *many* ways 
 
 Written Polish also looks scary. People joke that "Polish is a holy jihad fought against vowels, which are regarded in Polish as irredeemably evil" and this is perhaps not far from the truth. So you'll find words like the classic textbook examples below (all of which are eminently pronounceable according to Polish pronunciation rules, but you'll have trouble if you try to apply English pronunciation, and they tend to intimidate new students.)
 
+```
 * Dżdżysty
 * Polszczyzny
 * Księżniczka
@@ -157,6 +183,7 @@ Written Polish also looks scary. People joke that "Polish is a holy jihad fought
 * Pszczoła
 * Chrząszcz
 * Ochrzczony
+```
 
 These words are slightly cherry-picked for difficulty, but they're within the ballpark of pronunciation difficulty you'll find in real life.
 
@@ -189,26 +216,23 @@ You will need the accusative declension literally every single day which you eve
 
 There are many prepositions in Polish which map many-to-many with English prepositions, meaning that e.g. the Polish word for `from` is also the Polish word for `with`, depending on context, so you can't just cleanly translate from English without paying attention to context. Here's some examples, in English with just one single English word translated into Polish (note that here we've omitted the declension-ending-transformations described above, just for purposes of general simplicity.)
 
-*Normal English:* 
+```
+Normal English:
+I am with Martin.
 
-```I am with Martin.```
-
-
-*English, with one word translated to Polish:*
-
-
-```I am z Martin.```
+English, with one word translated to Polish:
+I am z Martin.
+```
 
 So here we see that the Polish word `z` means English `with`. But that same preposition can mean something totally different, if used in another context:
 
-*Normal English:* 
+```
+Normal English:
+I am from America.
 
-`I am from America.`
-
-
-*English, with one word translated to Polish:*
-
-`I am z America.`
+English, with one word translated to Polish:
+I am z America.
+```
 
 So the same Polish preposition aka word, (in this case it's a word with a length of just single letter, `z`) means two totally different things: both `with` and `from`.
 This is not confusing for native speakers, because they infer the meaning of the preposition from the declension transformations applied to nouns and adjectives (which we have omitted here for simplicity). But as a new student, you can't yet perform that inference, so you end up constantly confused about prepositions.
