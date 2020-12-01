@@ -35,17 +35,17 @@ Polish is hard for several reasons, given here is descending order of importance
 * Prepositions which don't map cleanly onto English
 * Availability of good textbooks and pedagogy
 
-### Declensions
+## Declensions
 
 Like many Slavic languages, Polish has a complicted system of declensions aka grammar, though nobody ever clearly explains what this means to new students. A big part of this document is devoted to explaining what "declensions" mean to a new student.
 
 
-##### What is a declension?
+#### What is a declension?
 
 In practice, "Polish has declensions" means that every word comes in 7 forms aka declensions, and the 7 forms are sometimes sufficiently dissimilar to each other that it might seem like you have to learn each word ~7 different times. Also, there is a complicated system of rules for choosing which declension form to use, and when to use it, depending mostly on context and situation. This means that learning Polish is in some sense like learning 7 languages, plus also learning which situation to use each of the 7 languages in. 
 
 
-##### Simple examples of declensions
+#### Simple examples of declensions
 
 Here's a simple example of a declension, using mostly English with just the relevant parts of Polish glued to the end of English words.
 
@@ -133,7 +133,11 @@ We discover a counterexample immediately, finding that when the ball is *beside*
 
 Here are some extra facts regarding declensions in Polish:
 
-* Some words in some of the 7 declensions are recognizeably phonetically similar to each other, while others are not. Example: The basic word for `apple` is `jabłko`, and it gets declined into forms like `jabłku` and `jabłka`, which are pretty recognizeable. On the other hand, the basic word for `dog` is `pies`, but it sometimes gets transformed into `psem` or `psie`, which are kinda recognizeable if you know what to look for, but not obvious to many new students.
+* Some words in some of the 7 declensions are recognizeably phonetically similar to each other, while others are not. Examples: 
+
+    * The basic word for `apple` is `jabłko`, and it gets declined into forms like `jabłku` and `jabłka`, which are pretty recognizeable. 
+    
+    * On the other hand, the basic word for `dog` is `pies`, but it sometimes gets transformed into `psem` or `psie`, which are kinda recognizeable if you know what to look for, but not obvious to many new students.
 
 * Adjectives, nouns, pronouns, numbers, and some other words have the 7 declension forms, though adverbs, some possessives, and some other words don't.
 
@@ -167,7 +171,12 @@ Using Polish declension form, glued to the end of English:
 
 ```There are five carów.```
 
-So you see that the Polish word for `car` changes, depending on how many cars there are. At this point we can try back-of-napkin math to estimate the complexity here. Most words come in 7 declension forms, and approximately 2 or 3 genders, and approximately 2 or 3 pluralities. The practical consequence of this is a combinatorial explosion in word forms. We find (7 declension forms * ~3 genders * ~2 pluralities) ~= 42 versions of each word, which you'll have to know about and choose correctly and understand in real time. On the bright side, some of these ~42 are duplicates of each other, perhaps due to a shortage of easily-pronouncable suffixes. And others of them follow approximate patterns, where even if you don't have the correct word form memorized, you can usually reason your way through to a plausible-sounding guess of the proper word form, given a little time to think. However, you'll still have to keep track of all these rules/patterns, which is widely regarded as one of the harder parts of learning Polish. 
+So you see that the Polish word for `car` changes, depending on how many cars there are. 
+
+
+### A rough estimate of word-form-complexity
+
+At this point we can try back-of-napkin math to estimate the complexity here. Most words come in 7 declension forms, and approximately 2 or 3 genders, and approximately 2 or 3 pluralities. The practical consequence of this is a combinatorial explosion in word forms. We find (7 declension forms * ~3 genders * ~2 pluralities) ~= 42 versions of each word, which you'll have to know about and choose correctly and understand in real time. On the bright side, some of these ~42 are duplicates of each other, perhaps due to a shortage of easily-pronouncable suffixes. And others of them follow approximate patterns, where even if you don't have the correct word form memorized, you can usually reason your way through to a plausible-sounding guess of the proper word form, given a little time to think. However, you'll still have to keep track of all these rules/patterns, which is widely regarded as one of the harder parts of learning Polish. 
 
 Complicating the situation somewhat, normal Polish people mostly cannot for the life of them explain this declension-form situation to you; they do it correctly without thinking. If you ask Polish people "why do I need to apply declension-form-suffix X to word Y in situation Z??", Polish people will think for a moment, then nod and sagely say something like "it's kogo/czego", and proceed to look satisfied with themselves as if this pronouncement has dispositively concluded the matter. They're right, of course, it is in fact "kogo/czego," and they know how to apply that in practice, but them telling you those two words is *far* from a complete explanation of what's happening under the hood. And you, a confused foreigner, remain totally baffled. So speaking Polish and teaching Polish are two separate skills, more so than in most disciplines. Of course teaching basketball or ballet is not the same as being a good basketball player or a good ballerina, but the teaching-doing gap is extra wide for Polish.
 
@@ -194,7 +203,7 @@ These words are slightly cherry-picked for difficulty, but they're within the ba
 
 ### Availability of good textbooks and pedagogy
 
-In general, most (all?) introductory Polish textbooks are written in a pompous, frilly style, and take themselves very seriously, with great attention paid to correctness and an upright attitude. There is a school of thought which says that throwing students into the deep end like this is good for them; this is in my opinion wrong. Textbooks in a perfect world should be written in plain language and workmanlike prose, *in the students' native language*, so as to maximize the new-known connection, aka the connection between the (ocean of) genuinely *new* material and the *known* safe-harbor of English.
+In general, most (all?) introductory Polish textbooks are written in a pompous, frilly style, and take themselves very seriously, with an upright attitude and great attention paid to correctness. There is a school of thought which says that throwing students into the deep end like this is good for them; in my opinion this is wrong. Textbooks in a perfect world should be written in plain language and workmanlike prose, *in the students' native language*, so as to maximize the new-known connection, aka the connection between the (ocean of) genuinely *new* Polish material and the *known* native language.
 
 Infuriatingly, almost all textbooks of Polish for English speakers have all the directions/metacommentary/exercise-descriptions written in (complicated, advanced) Polish. Astoundingly, this is even true for A0 and A1 level books, which have content (in Polish, obviously) like "See Bob run. Run, Bob, run," but directions (also in Polish) like "Fill in the appropriately conjugated verb into the lower blanks in the following three exercises; take care to avoid conflating phonetically similar infinitives." 
 
@@ -238,11 +247,13 @@ I am z America.
 ```
 
 So the same Polish preposition aka word, (in this case it's a word with a length of just single letter, `z`) means two totally different things: both `with` and `from`.
-This is not confusing for native speakers, because they infer the meaning of the preposition from the declension transformations applied to nouns and adjectives (which we have omitted here for simplicity). But as a new student, you can't yet perform that inference, so you end up constantly confused about prepositions.
+This is not confusing for native speakers, because they infer the meaning of the preposition from the declension transformations applied to nouns and adjectives (which we have omitted for simplicity in those examples above). But as a new student, you can't yet perform that inference, so you end up constantly confused about prepositions.
 
 Of course this is not merely a property of this one preposition `z` alone; instead, there are lots of "overloaded" prepositions like this, behaving in ways which you might not expect. TODO add some more examples of overloaded prepositions
 
-This is one reason why it's hard to be idiomatic. You can be intelligible but not idiomatic. You also can't translate very many prepositions from English, for example, I have to go "on a beer" not "for a beer". This is a little like regional differences in English, like how people from New Jersey say that they're standing "on-line" and people from Denver say that they're standing "in line," but way more extreme.
+This is one reason why it's hard to be idiomatic; even after long study, you'll often be intelligible but not idiomatic. 
+
+You also can't translate very many prepositions from English, for example, I have to go "on a beer" not "for a beer". This is a little like regional differences in English, like how people from New Jersey say that they're standing "on-line" and people from Denver say that they're standing "in line," but way more extreme.
 
 
 
