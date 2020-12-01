@@ -81,7 +81,6 @@ The ball is below the table.
 
 English again, slightly different sentence:
 The ball is beside the table.
-
 ```
 
 
@@ -91,16 +90,20 @@ It looks like this if we glue the Polish declension-transformations onto English
 Using Polish declension forms, glued to the end of English:
 The ball is below the tablem.
 
-Slightly different sentence, using Polish declension forms, glued to the end of English:
+Slightly different sentence, again using Polish declension forms, glued to the end of English:
 The ball is beside the tablu.
 ```
 
 
 Notice that the word "table" is the same in both of those English sentences above. On the other hand, in Polish, the word "table" changes, depending on where the ball is, as you see in the latter pair of sentences. If this situation strikes you as utterly mad, you're not alone; welcome to Polish. It's such a bizarre idea for English speakers that some students refuse to believe anyone would design a language like this; yet here we are. 
 
-Of course, we've picked super-simple sentences here, which correspondingly require super-simple declension forms. In practice, you mostly need declension transformations which are 1) harder to pronounce than the simple ones we used above, 2) not just additive suffixes, but involve subtracting sounds or sometimes nearly-unrecognizeable full transformations of words and 3) involve navigating a complicated mental flowchart for deciding which declension-form to use, often approximately of the form "if X then use Y, unless Z, in which case check A and B to decide if it should be C or D." Needless to say there are gallons of exceptions and special cases, such that you end up with plenty of memorization even if you're good at learning the rules.
+Of course, we've picked super-simple sentences here, which correspondingly require super-simple declension forms. In practice, you mostly need declension transformations which are:
 
-There is a further wrinkle in that not only Polish nouns must be declined, but also adjectives. Here's an example:
+1) harder to pronounce than the simple ones we used above
+2) not just additive suffixes, but involve subtracting sounds or sometimes nearly-unrecognizeable full transformations of words and 
+3) involve navigating a complicated mental flowchart for deciding which declension-form to use, often approximately of the form "if X then use Y, unless Z, in which case check A and B to decide if it should be C or D." 
+
+Needless to say there are gallons of exceptions and special cases, such that you end up with plenty of memorization even if you're good at learning the rules. There is a further wrinkle in that not only Polish nouns must be declined, but also adjectives. Here's an example:
 
 ```
 English:
