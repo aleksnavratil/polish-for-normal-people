@@ -161,15 +161,16 @@ Note that the word "car" only comes in two flavors, 1) "car" and 2) "cars," and 
 ```
 Using Polish declension form, glued to the end of English:
 
-```There is one car.```
+There is one car.
 
-*Using Polish declension form, glued to the end of English, but plural:* 
+Using Polish declension form, glued to the end of English, but plural: 
 
-```There are two cary.```
+There are two cary.
 
-*Using Polish declension form, glued to the end of English, but even more plural:*
+Using Polish declension form, glued to the end of English, but even more plural:
 
-```There are five carów.```
+There are five carów.
+```
 
 So you see that the Polish word for `car` changes, depending on how many cars there are. 
 
