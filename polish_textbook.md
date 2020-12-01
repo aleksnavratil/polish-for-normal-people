@@ -23,13 +23,13 @@ Like many Slavic languages, Polish has a complicted system of declensions aka gr
 
 *English:* 
 
-```I am with Tom```
+```I am with Tom.```
 
 
 
 *Using Polish declension forms, glued to the end of English:* 
 
-```I am with Tomem```
+```I am with Tomem.```
 
 
 
@@ -38,12 +38,12 @@ Notice that the word "Tom," which is a person's name, was changed here, in this 
 
 *English:* 
 
-```I am without Tom```
+```I am without Tom.```
 
 
 *Using Polish declension forms, glued to the end of English:*  
 
-```I am without Toma```
+```I am without Toma.```
 
 Notice that the word "Tom," was changed here, but was changed *differently* than above. Here, we added the suffix `-a`. This suffix `-a` is one of the 7 declension-form transformations, but of course it's not the same as the `-em` transformation above. If you mix them up, or use the one when you ought to use the other, you are mostly intelligible to native speakers, but you sound like an adorably clueless foreigner/illiterate fool.
 
@@ -64,11 +64,11 @@ It looks like this if we glue the Polish declension-transformations onto English
 
 *Using Polish declension forms, glued to the end of English:* 
 
-```The ball is below the tablem ```
+```The ball is below the tablem.```
 
 *Slightly different sentence, using Polish declension forms, glued to the end of English:* 
 
-```The ball is beside the tablu```
+```The ball is beside the tablu.```
 
 Notice that the word "table" is the same in both of those English sentences above. On the other hand, in Polish, the word "table" changes, depending on where the ball is, as you see in the latter pair of sentences. If this situation strikes you as utterly mad, you're not alone; welcome to Polish. It's such a bizarre idea for English speakers that some students refuse to believe anyone would design a language like this; yet here we are. 
 
@@ -84,7 +84,7 @@ There is a further wrinkle in that not only Polish nouns must be declined, but a
 
 ```The ball is beside the tall table.```
 
-Let's compare to English-with-Polish-declension-endings:
+Notice that the words `tall` and also `table` are the same in both English sentences. Let's compare to English-with-Polish-declension-endings:
 
 *Using Polish declension forms, glued to the end of English:* 
 
@@ -94,9 +94,9 @@ Let's compare to English-with-Polish-declension-endings:
 
 ```The ball is beside the tallego tablu```
 
-Notice a couple things here. First, when the ball is *below* the table, the declension ending for the adjective (aka the "-em" part of the word "tallem") happens to be the same as the declension ending for the noun (again the "-em" part of the word "tablem"). This is merely a lucky cooincidence, and is not at all a general feature of Polish declensions. 
+Notice a couple things here. First, when the ball is *below* the table, the declension ending for the adjective (aka the `-em` part of the word `tallem`) happens to be the same as the declension ending for the noun (again the `-em` part of the word `tablem`). This is merely a lucky cooincidence, and is not at all a general feature of Polish declensions. 
 
-We discover a counterexample immediately, finding that when the ball is *beside* the table, the adjective "tall" gets a new ending "-ego" which is not the same as the ending for the noun (which of course is still "tablem" as before). 
+We discover a counterexample immediately, finding that when the ball is *beside* the table, the adjective `tall` gets a new ending `-ego` which is not the same as the ending for the noun (which of course is still `tablem` as before). 
 
 
 ### A laundry list of difficulties related to Polish declensions
@@ -139,7 +139,7 @@ Note that the word "car" only comes in two flavors, 1) "car" and 2) "cars," and 
 
 So above, we've mentioned that most words come in 7 declension forms, and approximately 2 or 3 genders, and approximately 2 or 3 pluralities. The practical consequence of this is a combinatorial explosion in word forms. If we try to estimate the complexity, we find (7 declension forms * ~3 genders * ~2 pluralities) ~= 42 versions of each word, which you'll have to know about and choose correctly and understand in real time. On the bright side, some of these ~42 are duplicates of each other, perhaps due to a shortage of easily-pronouncable suffixes. And others of them follow approximate patterns, where even if you don't have the correct word form memorized, you can usually reason your way through to a plausible-sounding guess of the proper word form, given a little time to think. However, you'll still have to keep track of all these rules/patterns, which is widely regarded as one of the harder parts of learning Polish. 
 
-Complicating the situation somewhat, normal Polish people mostly cannot for the life of them explain this declension-form situation to you; they do it correctly without thinking. If you ask Polish people "why do I need to apply declension-form-suffix X to word Y in situation Z??", Polish people will think for a moment, then nod and sagely say something like "it's kogo/czego", and proceed to look satisfied with themselves as if this pronouncement has dispositively concluded the matter. They're right, of course, it is in fact "kogo/czego," and they know how to apply that in practice, but them telling you those two words is *far* from a complete explanation of what's happening under the hood. And you, a confused foreigner, remain totally confused. So speaking Polish and teaching Polish are two separate skills, more so than in most disciplines. Of course teaching basketball or ballet is not the same as being a good basketball player or a good ballerina, but the teaching-doing gap is extra wide for Polish.
+Complicating the situation somewhat, normal Polish people mostly cannot for the life of them explain this declension-form situation to you; they do it correctly without thinking. If you ask Polish people "why do I need to apply declension-form-suffix X to word Y in situation Z??", Polish people will think for a moment, then nod and sagely say something like "it's kogo/czego", and proceed to look satisfied with themselves as if this pronouncement has dispositively concluded the matter. They're right, of course, it is in fact "kogo/czego," and they know how to apply that in practice, but them telling you those two words is *far* from a complete explanation of what's happening under the hood. And you, a confused foreigner, remain totally baffled. So speaking Polish and teaching Polish are two separate skills, more so than in most disciplines. Of course teaching basketball or ballet is not the same as being a good basketball player or a good ballerina, but the teaching-doing gap is extra wide for Polish.
 
 
 ### Pronunciation and spelling
