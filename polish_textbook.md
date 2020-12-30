@@ -270,7 +270,7 @@ One further wrinkle about Polish is that many many suffixes are overloaded/polym
 * `Posiłek`, a word in the nominative singular masculine, meaning `meal`.
 * `Kawałek`, a word in the genetive plural feminine, meaning `pieces` or `of pieces`. As in, "He dropped the wine glass and it broke into hundreds of pieces."
 
-So you can't just look at the `łek` ending on a word and immediately conclude that "this is nominative singular masculine;" instead, you'll typically have to parse the context of the sentence in greater detail. Like anything else, you get better at this over time, but it's more complicated than in many languages. Of course, this suffix-collision phenomenon is of course not specific just to the combination of (nominative singular masculine) + (genetive plural feminine). It occurs in lots of other situations too. Here's another example, this time with adjectives' suffixes colliding instead of nouns':
+So you can't just look at the `łek` ending on a word and immediately conclude that "this is nominative singular masculine;" instead, you'll typically have to parse the context of the sentence in greater detail. Like anything else, you get better at this over time, but it's more complicated than in many languages. Of course, this suffix-collision phenomenon is not specific just to the combination of (nominative singular masculine) + (genetive plural feminine). It occurs in lots of other situations too. Here's another example, this time with adjectives' suffixes colliding instead of nouns':
 
 * `W kulturze amerykańskiej`, a phrase in the locative feminine singular, meaning `in American culture`. 
 * `Nie lubię kultury amerykańskiej`, a phrase in the genetive feminine singular, meaning `I don't like American culture.`
