@@ -1,5 +1,6 @@
-# Learning Polish as a second language
-## An introduction for normal people 
+# A clear explanation of why Polish as a second language is hard
+## By Aleksander Navratil
+## 2 December 2020
 
 Table of Contents
 =================
@@ -17,7 +18,7 @@ Table of Contents
 
 ## Should you study Polish as a second language?
 
-In general, no, you should not learn Polish as a second language. It's too hard, with minimal payoff. With the time and effort you'll spend learning Polish, you can learn:
+In general, no, you should not learn Polish as a second language. It's too hard, with minimal payoff. With the time and effort you'll spend learning Polish, you could instead learn:
 
     * Both Spanish and French (It's like a two-for-one deal, with more than a whole continent's worth of native speakers)
     * All of Russian (a language which works very well in ~10's of countries)
@@ -40,12 +41,12 @@ Polish is hard for several reasons, given here is descending order of importance
 Like many Slavic languages, Polish has a complicted system of declensions aka grammar, though nobody ever clearly explains what this means to new students. A big part of this document is devoted to explaining what "declensions" mean to a new student.
 
 
-#### What is a declension?
+### What is a declension?
 
-In practice, "Polish has declensions" means that every word comes in 7 forms aka declensions, and the 7 forms are sometimes sufficiently dissimilar to each other that it might seem like you have to learn each word ~7 different times. Also, there is a complicated system of rules for choosing which declension form to use, and when to use it, depending mostly on context and situation. This means that learning Polish is in some sense like learning 7 languages, plus also learning which situation to use each of the 7 languages in. 
+In practice, "Polish has declensions" means that every word comes in 7 forms aka declensions, and the 7 forms are sometimes sufficiently dissimilar to each other that it might sometimes seem at first like you have to learn a word ~7 different times. Also, there is a complicated system of rules for choosing which declension form to use, and when to use it, depending mostly on context and situation. This means that learning Polish is in some sense like learning 7 languages, plus also learning which situation to use each of the 7 languages in. 
 
 
-#### Simple examples of declensions
+### Simple examples of declensions
 
 Here's a simple example of a declension, using mostly English with just the relevant parts of Polish glued to the end of English words.
 
@@ -129,7 +130,7 @@ Notice a couple things here. First, when the ball is *below* the table, the decl
 We discover a counterexample immediately, finding that when the ball is *beside* the table, the adjective `tall` gets a new ending `-ego` which is not the same as the `-u` ending for the noun `tablu`. 
 
 
-#### A roundup of other things which are difficult about declensions
+### A roundup of other things which are difficult about declensions
 
 Here are some extra facts regarding declensions in Polish:
 
@@ -172,34 +173,110 @@ There are five carów.
 So you see that the Polish word for `car` changes, depending on how many cars there are. 
 
 
-### A rough estimate of word-form-complexity
+## A rough estimate of word-form-complexity
 
 At this point we can try back-of-napkin math to estimate the complexity here. Most words come in 7 declension forms, and approximately 2 or 3 genders, and approximately 2 or 3 pluralities. The practical consequence of this is a combinatorial explosion in word forms. We find (7 declension forms * ~3 genders * ~2 pluralities) ~= 42 versions of each word, which you'll have to know about and choose correctly and understand in real time. On the bright side, some of these ~42 are duplicates of each other, perhaps due to a shortage of easily-pronouncable suffixes. And others of them follow approximate patterns, where even if you don't have the correct word form memorized, you can usually reason your way through to a plausible-sounding guess of the proper word form, given a little time to think. However, you'll still have to keep track of all these rules/patterns, which is widely regarded as one of the harder parts of learning Polish. 
 
 Complicating the situation somewhat, normal Polish people mostly cannot for the life of them explain this declension-form situation to you; they do it correctly without thinking. If you ask Polish people "why do I need to apply declension-form-suffix X to word Y in situation Z??", Polish people will think for a moment, then nod and sagely say something like "it's kogo/czego", and proceed to look satisfied with themselves as if this pronouncement has dispositively concluded the matter. They're right, of course, it is in fact "kogo/czego," and they know how to apply that in practice, but them telling you those two words is *far* from a complete explanation of what's happening under the hood. And you, a confused foreigner, remain totally baffled. So speaking Polish and teaching Polish are two separate skills, more so than in most disciplines. Of course teaching basketball or ballet is not the same as being a good basketball player or a good ballerina, but the teaching-doing gap is extra wide for Polish.
 
 
-### Pronunciation and spelling
+## Pronunciation and spelling
 
 Polish contains a lot of sounds like English "shh" or "ch", and has *many* ways of writing subtle variations of these sounds (common examples of these are sz, cz, rz, ź, ż, si, dz, dź, dż, dzi but probably there are more too). Most of spelling in Polish is easy/mostly-phonetic, but it's usually hard to figure out which of the many "ch/sh" characters+digraphs you need. Most of those subtle variations are approximately phonetically indistinguishable to your non-native ear, but native speakers can and readily do distinguish between them. When you're speaking, most Polish speakers are super-shockingly-accepting of your terrible accent and gibberish pronunciation; the language tolerates a lot of abuse while remaining intelligible. However, the exception to this wide latitude is in the "sh/ch" sounds; mistaking one "sh/ch" sound for another subtly different one seems insignificant to you, because they're the same sound in English, but native speakers will often be genuinely unable to guess what words you're trying to say. If you do extreme versions of this class of mistake, such as conflating "shh" with "sss", hilarity ensues.
 
-Written Polish also looks scary. People joke that "Polish is a holy jihad fought against vowels, which are regarded in Polish as irredeemably evil" and this is perhaps not far from the truth. So you'll find words like the classic textbook examples below (all of which are eminently pronounceable according to Polish pronunciation rules, but you'll have trouble if you try to apply English pronunciation, and they tend to intimidate new students.)
+Written Polish also looks scary. People joke that "Polish is a holy jihad fought against vowels, which are regarded in Polish as irredeemably evil" and this is perhaps not far from the truth. So in daily life, you'll find words like the classic textbook examples below:
 
+* Wstrząsnelibiśmy się
 * Dżdżysty
-* Polszczyzny
-* Księżniczka
 * Źdźbło
+* Zanieczyszczenie
+* Wyczyszczeniem
+* Polszczyzny
+* Pszczoła
+* Księżniczka
 * Szczecin
 * Łódź
-* Pszczoła
 * Chrząszcz
 * Ochrzczony
 
-These words are slightly cherry-picked for difficulty, but they're within the ballpark of pronunciation difficulty you'll find in real life.
+These words are slightly cherry-picked for difficulty, but they're within the ballpark of pronunciation difficulty you'll find in real life. All of those are eminently pronounceable according to Polish pronunciation rules, but you'll have trouble if you try to apply English pronunciation, and they tend to intimidate new students.
+
+
+## Many forms of "to go"
+
+Polish does not have just one verb meaning `to go`. Instead, it has an overlapping constellation of subtly-different verbs for various `going`-related actions, with complicated rules for deciding which one applies. This is important because `to go` is a very common verb in any language, and you confuse people if you say "let's go by foot to the store" and then get in the car. Here's a partial list of examples:
+
+* `Iść`: To go by foot, walking, but only if that going *doesn't* happen reglarly, repeatedly, or continuously. 
+* `Chodzić`: To go by foot, walking, but only if that going *does* happen reglarly, repeatedly, or continuously. 
+* `Jechać` : To go by car or other wheeled transportation, but only if that going *doesn't* happen reglarly, repeatedly, or continuously. 
+* `Jeździć` : To go by car or other wheeled transportation, but only if that going *does* happen reglarly, repeatedly, or continuously. 
+* `Pójść` : To go in some other way that I don't understand TODO
+* `Pojechać` : To go in some other way that I also don't understand TODO
+* `Polecieć` : To go by airplane, or to hurry, metaphorically as fast as an airplane.
+* `Wchodzić` : To go *into* some location, but only if that going *does* happen reglarly, repeatedly, or continuously. 
+* `Wychodzić` : To go *out of* some location but only if that going *does* happen reglarly, repeatedly, or continuously. 
+
+So we see that if you want to choose the correct form of `to go`, you'll need to know not only whether or not the going is a special case/rare occurence vs commonly-repeated action, but also what method of transportation is relevant, and perhaps some other facts too. 
+
+There are similar variations for other verbs, such as `to carry` manually vs. by wheeled transportation, and also similar patterns for regularity-vs-a-one-time-deal, but `to go` exhibits these traits most strongly. 
+
+That last pair of examples, `Wchodzić` vs `Wychodzić`, brings us to our next point, regarding very subtle phonetic distinctions between pairs of opposites.
+
+## Very subtle phonetic distinctions between pairs of opposites
+
+In English, pairs of opposite verbs tend to (usually but not always) be phonetically distinct. Here are some examples:
+
+* To enter/to exit
+* To plug in/to unplug
+* To turn off/to turn on
+* To bring out/to take away
+
+In Polish, opposite verbs tend to be phonetically quite similar. Examples:
+
+* Wejść (to enter)
+* Wyjść (to exit)
+
+* Włonćyć (to plug in)
+* Wyłonćyć (to unplug)
+
+* Wsunąć (to slide in)
+* Wysunąć (to slide out)
+
+* `Wchodzić` : To go *into* some location, but only if that going *does* happen reglarly, repeatedly, or continuously. 
+* `Wychodzić` : To go *out of* some location, but only if that going *does* happen reglarly, repeatedly, or continuously. 
+
+So you see the common `w` vs `wy` distinction, which is not usually super obvious to English speakers. 
 
 
 
-### Availability of good textbooks and pedagogy
+## Phonetic agreement of adjectives and verbs
+
+Another wrinkle in Polish is that adjectives and nouns mostly do not take the same ending. Contrast this to many romance languages, wherein the transformations for e.g. feminizing an adjective and feminizing a noun are the same transformation. If you have `a delicious icecream` in Spanish, it is just `un delicioso helado.` Note that both the adjective and the noun end in `-o`; we just copied the `-o` from the end of the word for ice cream, and glued it onto the adjective. 
+
+Similarly, "a beautiful girl" in Spanish is `una hermosa chica.` Again we see that all the words end in `-a`, regardless of whether they're an article, adjective, or noun. Polish is mostly not like this at all; the transormations for adjectives, nouns, and most articles are totally different from each other. This doesn't sound like a big deal, but it turns out to be a lot harder in practice for new Polish students to remember all the different adjective-noun ending transformation pairs for all combinations of gender and declension, plus the inevitable (and fairly frequent) special cases. 
+
+
+
+## Overloaded suffixes
+
+One further wrinkle about Polish is that many many suffixes are overloaded/polymorphic. Meaning that it's not like english where if a word ends in `s`, it's probably plural, and if it doesn't end in `s`, it's probably singular. (Barring some unusual Latinate plurals-not-ending-in-s exceptions such as `stadia` or `qualia` etc, and the somewhat-more-common-but-still-kinda-rare singlar nouns ending in `s` such as `octopus` or `class`. In Polish, singular nouns can have a wide variety of endings, some of which are the same as plural nouns endings in other genders/declensions. This sometimes makes it hard to identify what declension/gender/plurality you're dealing with. For example:
+
+* `Posiłek`, a word in the nominative singular masculine, meaning `meal`.
+* `Kawałek`, a word in the genetive plural feminine, meaning `pieces` or `of pieces`. As in, "He dropped the wine glass and it broke into hundreds of pieces."
+
+So you can't just look at the `łek` ending on a word and immediately conclude that "this is nominative singular masculine;" instead, you'll typically have to parse the context of the sentence in greater detail. Like anything else, you get better at this over time, but it's more complicated than in many languages. Of course, this suffix-collision phenomenon is of course not specific just to the combination of (nominative singular masculine) + (genetive plural feminine). It occurs in lots of other situations too. Here's another example, this time with adjectives' suffixes colliding instead of nouns':
+
+* `W kulturze amerykańskiej`, a phrase in the locative feminine singular, meaning `in American culture`. 
+* `Nie lubię kultury amerykańskiej`, a phrase in the genetive feminine singular, meaning `I don't like American culture.`
+
+So note that we have the same plurality and gender in both cases, and the two lines differ only in their declension, yet both adjectives end in the `iej` suffix. There are plenty more examples of this too; for example the adjective `szczególny` is declined into `szczególnych` in both the locative plural for all genders, and also the genetive plural for all genders. So in many cases, you cannot merely inspect the suffix of a word to discover its declension, plurality, and gender.
+
+This situation leads to absurd results, like when you've been studying Polish for 2 years, and you're still spending hours learning to correctly pluralize nouns, which is something that can be learned in less than an hour in many other languages.
+
+
+
+
+## Availability of good textbooks and pedagogy
 
 In general, most (all?) introductory Polish textbooks are written in a pompous, frilly style, and take themselves very seriously, with an upright attitude and great attention paid to correctness. There is a school of thought which says that throwing students into the deep end like this is good for them; in my opinion this is wrong. Textbooks in a perfect world should be written in plain language and workmanlike prose, *in the students' native language*, so as to maximize the new-known connection, aka the connection between the (ocean of) genuinely *new* Polish material and the *known* native language.
 
@@ -249,25 +326,12 @@ This is not confusing for native speakers, because they infer the meaning of the
 
 Of course this is not merely a property of this one preposition `z` alone; instead, there are lots of "overloaded" prepositions like this, behaving in ways which you might not expect. TODO add some more examples of overloaded prepositions
 
-This is one reason why it's hard to be idiomatic; even after long study, you'll often be intelligible but not idiomatic. 
+This is one reason why even after long study, you'll often be intelligible but not idiomatic. 
 
 You also can't translate very many prepositions from English, for example, I have to go "on a beer" not "for a beer". This is a little like regional differences in English, like how people from New Jersey say that they're standing "on-line" and people from Denver say that they're standing "in line," but way more extreme.
 
 
 
-## Very subtle phonetic distinctions between pairs of opposites
-TODO:
-In English, pairs of opposite verbs tend to (usually but not always) be phonetically distinct:
-turn off/turn on
-plug/unplug
-
-
-Turn off/turn on
-bring out/take away?
-Slide out? Odsunac? Wsunac/wysunac
-wejsc/wyjsc
-
-similar-sounding opposite words, such as włoncyc and wyłoncyc
 
 
 
@@ -281,12 +345,15 @@ TODO context causes verb, verb causes preposition, preposition causes declension
 
 TODO: Absurd obsession with teaching numbers. Numbers in Polish are 1) really hard and 2) nearly totally useless and 3) tend to demoralize students because they're constantly being told that they're wrong. If you ever need a number you can type your phone and holding it up, or you can spell the number like a phone number. Perhaps you might need a few common dates, but you can memorize those in an hour and worry about general comprehension of numbers at the very end. 
 
+
+
+
+
 TODO pluralizing nouns, overloading. It's not like english where if a word ends in S, it's probably plural, and if it doesn't, it's probably singular, barring some unusual Latinate exceptions such as "stadia" or "qualia" etc. In Polish, singular nouns can have a wide variety of endings, some of which are the same as plural nouns endings in other genders/declensions etc. So for example:
 
-This situation leads to absurd results, like when you've been studying Polish for 2 years, and you're still spending hours learning to correctly pluralize nouns.
 
 
-TODO: Agreement of Adjectives and verbs mostly does not take the same ending. In many romance languages, the transformations for e.g. feminizing an adjective and a noun are the same transformation. If you have "a delicious icecream" in Spanish, it is just "un delicioso helado." Note that both the adjective and the noun end in -o. Similarly, "a beautiful girl" in Spanish is "una hermosa chica." Again we see that all the words end in -a, regardless of whether they're an article, adjective, or noun. This doesn't sound like a big deal, but it turns out to be a lot harder in practice for new Polish students to remember all the different adjective-noun ending transformation pairs for all combinations of gender and declension, plus the inevitable (and fairly frequent) special cases. Needless to say, some of the trans
+TODO: Agreement of Adjectives and verbs mostly does not take the same ending. In many romance languages, the transformations for e.g. feminizing an adjective and a noun are the same transformation. If you have "a delicious icecream" in Spanish, it is just "un delicioso helado." Note that both the adjective and the noun end in -o. Similarly, "a beautiful girl" in Spanish is "una hermosa chica." Again we see that all the words end in -a, regardless of whether they're an article, adjective, or noun. This doesn't sound like a big deal, but it turns out to be a lot harder in practice for new Polish students to remember all the different adjective-noun ending transformation pairs for all combinations of gender and declension, plus the inevitable (and fairly frequent) special cases. 
 
 
 TODO: Common words tend to be super-irregular. This is true in many languages, but more so in polish. Mezczyzna is gramatically female but semantically male etc. There are a bunch of these, think of some more examples.
