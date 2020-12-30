@@ -1,0 +1,35 @@
+
+
+## TODOS:
+
+TODO add some more examples of overloaded prepositions
+ 
+
+TODO context causes verb, verb causes preposition, preposition causes declension? 
+This is related to the declension thing, insofar as prepositions are involved in context, which in turn are involved with declensions.
+
+
+TODO: Absurd obsession with teaching numbers. Numbers in Polish are 1) really hard and 2) nearly totally useless and 3) tend to demoralize students because they're constantly being told that they're wrong. If you ever need a number you can type your phone and holding it up, or you can spell the number like a phone number. Perhaps you might need a few common dates, but you can memorize those in an hour and worry about general comprehension of numbers at the very end. 
+
+
+
+
+
+TODO pluralizing nouns, overloading. It's not like english where if a word ends in S, it's probably plural, and if it doesn't, it's probably singular, barring some unusual Latinate exceptions such as "stadia" or "qualia" etc. In Polish, singular nouns can have a wide variety of endings, some of which are the same as plural nouns endings in other genders/declensions etc. So for example:
+
+
+
+TODO: Agreement of Adjectives and verbs mostly does not take the same ending. In many romance languages, the transformations for e.g. feminizing an adjective and a noun are the same transformation. If you have "a delicious icecream" in Spanish, it is just "un delicioso helado." Note that both the adjective and the noun end in -o. Similarly, "a beautiful girl" in Spanish is "una hermosa chica." Again we see that all the words end in -a, regardless of whether they're an article, adjective, or noun. This doesn't sound like a big deal, but it turns out to be a lot harder in practice for new Polish students to remember all the different adjective-noun ending transformation pairs for all combinations of gender and declension, plus the inevitable (and fairly frequent) special cases. 
+
+
+TODO: 
+
+TODO: there are like 50 forms of "to go". Which one should you use? It depends, are you going on foot or by car? Do you go regularly or it's a one-time deal? Did you successfully complete the act of going, or only partial? isc prysc jade etc.
+
+
+TODO: Discuss the Imperfective/perfective thing, and the commonly-given extremely confusing explanation of the future tense. You only need 3 tenses really but they give you this shitty explanation involving "bede" which you rarely use in practice because it's like a future progressive, "I will be eating" which is not a thing that you say very often in practice.
+
+TODO some possessives get declined/adjusted, while others don't. Jego vs jej vs swoje
+TODO Does the gender of words change depending on declension? 
+
+TODO mention teaching declensions glued to the end of English words as a possibility
