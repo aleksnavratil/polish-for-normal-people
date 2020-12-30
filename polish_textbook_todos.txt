@@ -1,6 +1,8 @@
 
 
 ## TODOS:
+TODO: Discuss the Imperfective/perfective thing, and the commonly-given extremely confusing explanation of the future tense. You only need 3 tenses really but they give you this shitty explanation involving "bede" which you rarely use in practice because it's like a future progressive, "I will be eating" which is not a thing that you say very often in practice.
+
 
 TODO add some more examples of overloaded prepositions
  
@@ -27,7 +29,6 @@ TODO:
 TODO: there are like 50 forms of "to go". Which one should you use? It depends, are you going on foot or by car? Do you go regularly or it's a one-time deal? Did you successfully complete the act of going, or only partial? isc prysc jade etc.
 
 
-TODO: Discuss the Imperfective/perfective thing, and the commonly-given extremely confusing explanation of the future tense. You only need 3 tenses really but they give you this shitty explanation involving "bede" which you rarely use in practice because it's like a future progressive, "I will be eating" which is not a thing that you say very often in practice.
 
 TODO some possessives get declined/adjusted, while others don't. Jego vs jej vs swoje
 TODO Does the gender of words change depending on declension? 

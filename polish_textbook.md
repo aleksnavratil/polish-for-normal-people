@@ -142,13 +142,13 @@ Here are some extra facts regarding declensions in Polish:
 
     * The basic word for `apple` is `jabłko`, and it gets declined into forms like `jabłku` and `jabłka`, which are pretty recognizeable. 
     
-    * On the other hand, the basic word for `dog` is `pies`, but it sometimes gets transformed into `psem` or `psie`, which are kinda recognizeable if you know what to look for, but not obvious to many new students.
+    * On the other hand, the basic word for `dog` is `pies`, but it sometimes gets transformed into `psem` or `psie`, which are kinda recognizeable if you know what to look for, but not obvious to many new students. It has nothing to do with the word `piesi`, which means `pedestrians`.
 
 * Adjectives, nouns, pronouns, numbers, and some other words have the 7 declension forms, though adverbs, some possessives, and some other words don't.
 
 * Polish has >2 genders, but some genders only exist in a small number of declensions. So in general, each declension has N genders, where N is an integer which depend on declension. For example, declension A might have 3 genders, while declension B might have only 2 genders, such that you cannot remember "The Polish word for `horse` is always a masculine noun," because in some declension forms it is simply masculine, while in others it might be a neutral noun or some other harder-to-concisely-explain gender. There is a further wrinkle in that some of the genders depend approximately on whether the noun represents a living aka animate thing, or a non-living aka inanimate thing, and the usual suite of exceptions and special cases etc.
 
-* Unlike English, there are multiple pluralities. In Polish, the word for "car" changes depending on *how many cars there are*. This often (justly) strikes students as utter madness. Here's an example:
+* Unlike English, there are multiple pluralities. In Polish, the word for `car` changes depending on *how many cars there are*. This often (justly) strikes students as utter madness. Here's an example:
 
 ```
 English:
@@ -161,7 +161,7 @@ English again, even more plural:
 There are five cars.
 ```
 
-Note that the word "car" only comes in two flavors, 1) "car" and 2) "cars," and that the rule for deciding which form to use is pretty simple: 0 cars, 1 car, 2+ cars. Polish differs insofar as it has more flavors of each word, depending on plurality, and the rules for picking which one to use are not so simple as in English. Here's a quick example:
+Note that the word `car` only comes in two flavors, 1) `car` and 2) `cars,` and that the rule for deciding which form to use is pretty simple: 0 cars, 1 car, 2+ cars. Polish differs insofar as it has more flavors of each word, depending on plurality, and the rules for picking which one to use are not so simple as in English. Here's a quick example:
 
 ```
 Using Polish declension form, glued to the end of English:
@@ -210,21 +210,21 @@ These words are slightly cherry-picked for difficulty, but they're within the ba
 
 Polish does not have just one verb meaning `to go`. Instead, it has an overlapping constellation of subtly-different verbs for various `going`-related actions, with complicated rules for deciding which one applies. This is important because `to go` is a very common verb in any language, and you confuse people if you say "let's go by foot to the store" and then get in the car. Here's a partial list of examples:
 
-* `Iść`: To go by foot, walking, but only if that going *doesn't* happen reglarly, repeatedly, or continuously. 
-* `Chodzić`: To go by foot, walking, but only if that going *does* happen reglarly, repeatedly, or continuously. 
-* `Jechać` : To go by car or other wheeled transportation, but only if that going *doesn't* happen reglarly, repeatedly, or continuously. 
-* `Jeździć` : To go by car or other wheeled transportation, but only if that going *does* happen reglarly, repeatedly, or continuously. 
+* `Iść`: To go by foot, walking, but only if that going *doesn't* happen regularly, repeatedly, or continuously. 
+* `Chodzić`: To go by foot, walking, but only if that going *does* happen regularly, repeatedly, or continuously. 
+* `Jechać` : To go by car or other wheeled transportation, but only if that going *doesn't* happen regularly, repeatedly, or continuously. 
+* `Jeździć` : To go by car or other wheeled transportation, but only if that going *does* happen regularly, repeatedly, or continuously. 
 * `Pójść` : To go in some other way that I don't understand TODO
 * `Pojechać` : To go in some other way that I also don't understand TODO
 * `Polecieć` : To go by airplane, or to hurry, metaphorically as fast as an airplane.
-* `Wchodzić` : To go *into* some location, but only if that going *does* happen reglarly, repeatedly, or continuously. 
-* `Wychodzić` : To go *out of* some location but only if that going *does* happen reglarly, repeatedly, or continuously. 
+* `Wchodzić` : To go *into* some location, but only if that going *does* happen regularly, repeatedly, or continuously. 
+* `Wychodzić` : To go *out of* some location but only if that going *does* happen regularly, repeatedly, or continuously. 
 
 That last pair of examples, `Wchodzić` vs `Wychodzić`, will appear again in the following section, regarding very subtle phonetic distinctions between pairs of opposites.
 
-Anyway, we see that if you want to choose the correct form of `to go`, you'll need to know not only whether or not the going is a special case/rare occurence vs commonly-repeated action, but also what method of transportation is relevant, and perhaps some other facts too. 
+Anyway, we see that if you want to choose the correct form of `to go`, you'll need to know not only whether or not the going is a special case/rare occurence vs commonly-repeated action, but also what method of transportation is relevant, and perhaps some other facts too. There are similar variations for other verbs, such as `to carry` manually vs. by wheeled transportation, and also similar patterns for regularity-vs-a-one-time-deal, but `to go` exhibits these traits most strongly. 
 
-There are similar variations for other verbs, such as `to carry` manually vs. by wheeled transportation, and also similar patterns for regularity-vs-a-one-time-deal, but `to go` exhibits these traits most strongly. This is one example of a more general pattern in Polish where common words tend to be super-irregular. This is true in many languages, but more so in Polish. The classic example is the word for `man`, which is `mężczyzna`. It's gramatically female but semantically male. There are a bunch more examples such as `dentist` and `daddy`, but they're not super-germane to our discussion so we'll not dwell on them here. 
+This is one example of a more general pattern in Polish where common words tend to be super-irregular. This is true in many languages, but more so in Polish. The classic example is the word for `man`, which is `mężczyzna`. It's gramatically female but semantically male. There are a bunch more examples such as `dentist` and `daddy`, but they're not super-germane to our discussion so we'll not dwell on them here. 
 
 ## Very subtle phonetic distinctions between pairs of opposites
 
@@ -246,8 +246,8 @@ In Polish, opposite verbs tend to be phonetically quite similar. Examples:
 * `Wsunąć` (to slide in)
 * `Wysunąć` (to slide out)
 
-* `Wchodzić` : To go *into* some location, but only if that going *does* happen reglarly, repeatedly, or continuously. 
-* `Wychodzić` : To go *out of* some location, but only if that going *does* happen reglarly, repeatedly, or continuously. 
+* `Wchodzić` : To go *into* some location, but only if that going *does* happen regularly, repeatedly, or continuously. 
+* `Wychodzić` : To go *out of* some location, but only if that going *does* happen regularly, repeatedly, or continuously. 
 
 So you see the common `w` vs `wy` distinction, which is not usually super phonetically obvious to English speakers. 
 
@@ -304,11 +304,9 @@ I am z America.
 So the same Polish preposition aka word (in this case it's a word with a length of just single letter, `z`) means two totally different things: both `with` and `from`.
 This is not confusing for native speakers, because they infer the meaning of the preposition from the declension transformations applied to nouns and adjectives (which we have omitted for simplicity in those examples above). But as a new student, you can't yet perform that inference, so you end up constantly confused about prepositions.
 
-Of course this is not merely a property of this one preposition `z` alone; instead, there are lots of "overloaded" prepositions like this, behaving in ways which you might not expect.
+Of course this is not merely a property of this one preposition `z` alone; instead, there are lots of "overloaded" prepositions like this, behaving in ways which you might not expect. This is one reason why even after long study, you'll often be intelligible but not idiomatic. 
 
-This is one reason why even after long study, you'll often be intelligible but not idiomatic. 
-
-You also can't translate very many prepositions from English, for example, I have to go "on a beer" not "for a beer". This is a little like regional differences in English, like how people from New Jersey say that they're standing "on-line" and people from Denver say that they're standing "in line," but way more extreme.
+You also can't translate very many prepositions from English, for example, in Polish you go "on a beer" not "for a beer". This is a little like regional differences in English, like how people from New Jersey say that they're standing "on-line" and people from Denver say that they're standing "in line," but way more extreme.
 
 
 
@@ -318,7 +316,7 @@ You also can't translate very many prepositions from English, for example, I hav
 
 ## Availability of good textbooks and pedagogy
 
-Last but not least, there is a family of problems related to the fundamental fact that Polish is quite a niche language, which is not commonly taught as a second language. In general, most (all?) introductory Polish textbooks are written in a pompous, frilly style, and take themselves very seriously, with an upright attitude and great attention paid to correctness. There is a school of thought which says that throwing students into the deep end like this is good for them; in my opinion this is wrong. Textbooks in a perfect world should be written in plain language and workmanlike prose, *in the students' native language*, so as to maximize the new-known connection, aka the connection between the (ocean of) genuinely *new* Polish material and the *known* native language.
+Last but not least, there is a family of problems related to the fundamental fact that Polish is quite a niche language, which is not commonly taught as a second language. In general, most (all?) introductory Polish textbooks are written in a pompous, frilly style, and take themselves very seriously, with an upright attitude and great attention paid to correctness. There is a school of thought which says that throwing students into the deep end like this is good for them; in my opinion this is wrong. Textbooks in a perfect world should be written in plain language and workmanlike prose, *in the students' native language*, so as to maximize the new-known connection, aka the connection between the (ocean of) genuinely *new* Polish material and the *known* native language. A clear pattern with most Polish pedagogical materials is a complete disregard for the *essential* complexity of the language itself, and the *incidental* complexity of textbook metadata and administrative conventions.
 
 Infuriatingly, almost all textbooks of Polish for English speakers have all the directions/metacommentary/exercise-descriptions written in (complicated, advanced) Polish. Astoundingly, this is even true for A0 and A1 level books, which have content (in Polish, obviously) like "See Bob run. Run, Bob, run," but directions (also in Polish) like "Fill in the appropriately conjugated verb into the lower blanks in the following three exercises; take care to avoid conflating phonetically similar infinitives." 
 
