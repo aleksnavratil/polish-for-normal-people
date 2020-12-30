@@ -161,7 +161,7 @@ English again, even more plural:
 There are five cars.
 ```
 
-Note that the word `car` only comes in two flavors, 1) `car` and 2) `cars,` and that the rule for deciding which form to use is pretty simple: 0 cars, 1 car, 2+ cars. Polish differs insofar as it has more flavors of each word, depending on plurality, and the rules for picking which one to use are not so simple as in English. Here's a quick example:
+Note that the word `car` only comes in two flavors, 1) `car` and 2) `cars`, and that the rule for deciding which form to use is pretty simple: 0 cars, 1 car, 2+ cars. Polish differs insofar as it has more flavors of each word, depending on plurality, and the rules for picking which one to use are not so simple as in English. Here's a quick example:
 
 ```
 Using Polish declension form, glued to the end of English:
@@ -240,8 +240,11 @@ In Polish, opposite verbs tend to be phonetically quite similar. Examples:
 * `Wejść` (to enter)
 * `Wyjść` (to exit)
 
-* `Włonćyć` (to plug in)
-* `Wyłonćyć` (to unplug)
+* `Włonćyć` (to turn on)
+* `Wyłonćyć` (to off)
+
+* `Podłączyć` (to plug in)
+* `Odłączyć` (to unplug)
 
 * `Wsunąć` (to slide in)
 * `Wysunąć` (to slide out)
