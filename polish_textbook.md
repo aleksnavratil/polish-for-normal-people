@@ -8,9 +8,9 @@ Table of Contents
 * [Should you study Polish as a second language?](#should-you-study-polish-as-a-second-language)
 * [Why is Polish hard](#why-is-polish-hard)
 * [Declensions](#declensions)
- * [What is a declension?](#what-is-a-declension)
- * [Simple examples of declensions](#simple-examples-of-declensions)
- * [A roundup of other things which are difficult about declensions](#a-roundup-of-other-things-which-are-difficult-about-declensions)
+    * [What is a declension?](#what-is-a-declension)
+    * [Simple examples of declensions](#simple-examples-of-declensions)
+    * [A roundup of other things which are difficult about declensions](#a-roundup-of-other-things-which-are-difficult-about-declensions)
 * [A rough estimate of word-form-complexity](#a-rough-estimate-of-word-form-complexity)
 * [Pronunciation and spelling](#pronunciation-and-spelling)
 * [Many forms of "to go"](#many-forms-of-to-go)
@@ -43,12 +43,12 @@ Polish is hard for several reasons, given here is descending order of importance
 
 ## Declensions
 
-Like many Slavic languages, Polish has a complicted system of declensions aka grammar, though nobody ever clearly explains what this means to new students. A big part of this document is devoted to explaining what "declensions" mean to a new student.
+Like many Slavic languages, Polish has a complicted system of declensions aka grammar, though nobody ever clearly explains what this means to new students. A big part of this document is devoted to explaining this without (much) jargon.
 
 
 ### What is a declension?
 
-In practice, "Polish has declensions" means that every word comes in 7 forms aka declensions, and the 7 forms are sometimes sufficiently dissimilar to each other that it might sometimes seem at first like you have to learn a word ~7 different times. Also, there is a complicated system of rules for choosing which declension form to use, and when to use it, depending mostly on context and situation. This means that learning Polish is in some sense like learning 7 languages, plus also learning which situation to use each of the 7 languages in. 
+In practice, "Polish has declensions" means that every word comes in 7 forms aka declensions, and the 7 forms are sometimes sufficiently dissimilar to each other that it might sometimes seem at first like you have to learn a word ~7 different times. Also, there is a complicated system of rules for choosing which declension form to use, and when to use it, depending mostly on context and situation. This means that learning Polish is in some (exxagerated) sense like learning 7 languages, plus also learning which situation to use each of the 7 languages in. 
 
 
 ### Simple examples of declensions
@@ -174,14 +174,14 @@ Using Polish declension form, glued to the end of English, but even more plural:
 There are five carów.
 ```
 
-So you see that the Polish word for `car` changes, depending on how many cars there are. 
+So you see that the Polish word for `car` changes, depending on how many cars there are. This is of course not at all a unique feature of cars alone, and is instead relevant any time you're counting anything or dealing with quantities in Polish. And the ending transformations we've used above are only one of several possibilities, as usual depending on gender etc. 
 
 
 ## A rough estimate of word-form-complexity
 
-At this point we can try back-of-napkin math to estimate the complexity here. Most words come in 7 declension forms, and approximately 2 or 3 genders, and approximately 2 or 3 pluralities. The practical consequence of this is a combinatorial explosion in word forms. We find (7 declension forms * ~3 genders * ~2 pluralities) ~= 42 versions of each word, which you'll have to know about and choose correctly and understand in real time. On the bright side, some of these ~42 are duplicates of each other, perhaps due to a shortage of easily-pronouncable suffixes. And others of them follow approximate patterns, where even if you don't have the correct word form memorized, you can usually reason your way through to a plausible-sounding guess of the proper word form, given a little time to think. However, you'll still have to keep track of all these rules/patterns, which is widely regarded as one of the harder parts of learning Polish. Also, the situation is somewhat complicated by the fact that some (many) (declension+gender+plurality) rules do not resolve to a single transformation or ending. Meaning, the ending for locative singular neuter might be any of `ie`, `le`, `śle`, `rze`, `ście`, or `ździe` or other options, depending on [many many factors](https://courseofpolish.com/grammar/cases/locative-case/nouns/neuter-singular-nouns). So it's not like each declension form has only a single possibility for its ending. 
+At this point we can try back-of-napkin math to estimate the complexity here. Most words come in 7 declension forms, and approximately 2 or 3 genders, and approximately 2 or 3 pluralities. The practical consequence of this is a combinatorial explosion in word forms. We find (7 declension forms * ~3 genders * ~2 pluralities) ~= 42 versions of each word, which you'll have to know about and choose correctly and understand in real time. On the bright side, some of these ~42 are duplicates of each other, perhaps due to a shortage of easily-pronouncable suffixes. And others of them follow approximate patterns, where even if you don't have the correct word form memorized, you can usually reason your way through to a plausible-sounding guess of the proper word form, given a little time to think. However, you'll still have to keep track of all these rules/patterns, which is widely regarded as one of the harder parts of learning Polish. Also, the situation is somewhat complicated by the fact that some (many) declension+gender+plurality transformation rules do not resolve to a single transformation or ending. Meaning, the ending for locative singular neuter might be any of `ie`, `le`, `śle`, `rze`, `ście`, or `ździe` or other options, depending on [many many factors](https://courseofpolish.com/grammar/cases/locative-case/nouns/neuter-singular-nouns). So it's not like each declension form has only a single possibility for its ending, and in practice our estimate above of "42 possible forms" is a severe simplification.
 
-Complicating the situation somewhat, normal Polish people mostly cannot for the life of them explain this declension-form situation to you; they do it correctly without thinking. If you ask Polish people "why do I need to apply declension-form-suffix X to word Y in situation Z??", Polish people will think for a moment, then nod and sagely say something like "it's kogo/czego", and proceed to look satisfied with themselves as if this pronouncement has dispositively concluded the matter. They're right, of course, it is in fact "kogo/czego," and they know how to apply that in practice, but them telling you those two words is *far* from a complete explanation of what's happening under the hood. And you, a confused foreigner, remain totally baffled. So speaking Polish and teaching Polish are two separate skills, more so than in most disciplines. Of course teaching basketball or ballet is not the same as being a good basketball player or a good ballerina, but the teaching-doing gap is extra wide for Polish.
+Complicating the situation somewhat, normal Polish people mostly cannot for the life of them explain this declension-form situation to you; they do it correctly without thinking. If you ask Polish people "why do I need to apply declension-form-suffix X to word Y in situation Z??", Polish people will think for a moment, then nod and sagely say something like "it's kogo/czego," and proceed to look satisfied with themselves as if this pronouncement has dispositively concluded the matter. They're right, of course, it is in fact "kogo/czego," and they know how to apply that in practice, but them telling you those two words is *far* from a complete explanation of what's happening under the hood. And you, a confused foreigner, remain totally baffled. So speaking Polish and teaching Polish are two separate skills, more so than in most disciplines. Of course teaching basketball or ballet is not the same as being a good basketball player or a good ballerina, but the teaching-doing gap is extra wide for Polish.
 
 
 ## Pronunciation and spelling
@@ -255,7 +255,7 @@ In Polish, opposite verbs tend to be phonetically quite similar. Examples:
 So you see the common `w` vs `wy` distinction, which is not usually super phonetically obvious to English speakers. 
 
 
-## Phonetic agreement of adjectives and verbs
+## Phonetic agreement of adjectives' and verbs' endings
 
 Another phonetics-related wrinkle in Polish is that adjectives and nouns mostly do not take the same ending. Contrast this to many romance languages, wherein the transformations for e.g. feminizing an adjective and feminizing a noun are the same transformation. If you have `a delicious ice cream` in Spanish, it is just `un delicioso helado.` Note that both the adjective and the noun end in `-o`; we just copied the `-o` from the end of the word for ice cream, and glued it onto the adjective. 
 
