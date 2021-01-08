@@ -48,7 +48,7 @@ Like many Slavic languages, Polish has a complicted system of declensions aka gr
 
 ### What is a declension?
 
-In practice, "Polish has declensions" means that every word comes in 7 forms aka declensions, and the 7 forms are sometimes sufficiently dissimilar to each other that it might sometimes seem at first like you have to learn a word ~7 different times. Also, there is a complicated system of rules for choosing which declension form to use, and when to use it, depending mostly on context and situation. This means that learning Polish is in some (exxagerated) sense like learning 7 languages, plus also learning which situation to use each of the 7 languages in. 
+In practice, "Polish has declensions" means that every word comes in 7 forms aka declensions, and the 7 forms are sometimes sufficiently dissimilar to each other that it might sometimes seem at first like you have to learn a word ~7 different times. Also, there is a complicated system of rules for choosing which declension form to use, and when to use it, depending mostly on context and situation. This means that learning Polish is in some (exaggerated) sense like learning 7 languages, plus also learning which situation to use each of the 7 languages in. 
 
 
 ### Simple examples of declensions
