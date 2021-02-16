@@ -78,8 +78,6 @@ I am without Toma.
 
 Notice that the word "Tom," was changed here, but was changed *differently* than above. Here, we added the suffix `-a`. This suffix `-a` is one of the 7 declension-form transformations, but of course it's not the same as the `-em` transformation above. If you mix them up, or use the one when you ought to use the other, you are mostly intelligible to native speakers, but you sound like an adorably clueless foreigner/illiterate fool.
 
-TODO: COLOR CODE THESE ENDINGS
-
 This declension-form-transformation thing occurs not just with people's names, but instead in almost all situations of practical relevance. Here's the classic textbook declension example to help you get the hang of it. Take these two English sentences:
 
 ```
@@ -220,6 +218,7 @@ Polish does not have just one verb meaning `to go`. Instead, it has an overlappi
 * `Polecieć` : To go by airplane, or to hurry, metaphorically as fast as an airplane.
 * `Wchodzić` : To go *into* some location, but only if that going *does* happen regularly, repeatedly, or continuously. 
 * `Wychodzić` : To go *out of* some location but only if that going *does* happen regularly, repeatedly, or continuously. 
+TODO: Add the third class of "even more frequently doing" verbs such as bywać and friends
 
 That last pair of examples, `Wchodzić` vs `Wychodzić`, will appear again in the following section, regarding very subtle phonetic distinctions between pairs of opposites.
 
