@@ -241,7 +241,7 @@ In Polish, opposite verbs tend to be phonetically quite similar. Examples:
 * `Wyjść` (to exit)
 
 * `Włonćyć` (to turn on)
-* `Wyłonćyć` (to off)
+* `Wyłonćyć` (to turn off)
 
 * `Podłączyć` (to plug in)
 * `Odłączyć` (to unplug)
@@ -252,7 +252,7 @@ In Polish, opposite verbs tend to be phonetically quite similar. Examples:
 * `Wchodzić` : To go *into* some location, but only if that going *does* happen regularly, repeatedly, or continuously. 
 * `Wychodzić` : To go *out of* some location, but only if that going *does* happen regularly, repeatedly, or continuously. 
 
-So you see the common `w` vs `wy` distinction, which is not usually super phonetically obvious to English speakers. 
+So you see the common `w` vs `wy` distinction, which is not usually super phonetically obvious to English speakers. This is only one of several possible pairs of phonetically-similar opposites; for example, we see the `od-` and `pod-` pair above, but there are others too.
 
 
 ## Phonetic agreement of adjectives' and verbs' endings
