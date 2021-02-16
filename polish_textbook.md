@@ -1,4 +1,5 @@
-# A noob's explanation of why Polish as a 2nd language is hard
+# Why Polish is hard to learn
+## A brief guided tour of its many pitfalls
 ## By Aleksander Navratil
 ## 30 December 2020
 
